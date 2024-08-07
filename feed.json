@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "陈墨的小窝",
+    "description": "",
+    "home_page_url": "https://chenmokeji.github.io",
+    "feed_url": "https://chenmokeji.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "thetemple.陈墨"
+    },
+    "items": [
+    ]
+}

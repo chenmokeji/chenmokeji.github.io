@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>陈墨的小窝</title>
+    <link href="https://chenmokeji.github.io/feed.xml" rel="self" />
+    <link href="https://chenmokeji.github.io" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>thetemple.陈墨</name>
+    </author>
+    <id>https://chenmokeji.github.io</id>
+
+</feed>
