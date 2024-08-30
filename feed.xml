@@ -1,12 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>陈墨的小窝</title>
+    <title>陈墨的小窝--陈墨科技</title>
     <link href="https://chenmokeji.github.io/feed.xml" rel="self" />
     <link href="https://chenmokeji.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-08-29T17:52:19+08:00</updated>
     <author>
         <name>thetemple.陈墨</name>
     </author>
     <id>https://chenmokeji.github.io</id>
 
+    <entry>
+        <title>欢迎来到我的小窝</title>
+        <author>
+            <name>thetemple.陈墨</name>
+        </author>
+        <link href="https://chenmokeji.github.io/huan-ying-lai-dao-wo-de-xiao-wo.html"/>
+        <id>https://chenmokeji.github.io/huan-ying-lai-dao-wo-de-xiao-wo.html</id>
+
+        <updated>1970-01-01T00:00:00+08:00</updated>
+            <summary>
+                <![CDATA[
+                    这是我的小窝 by thetemple.陈墨
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="这是我的小窝">这是我的小窝</h1>
+<h6 id="by-thetemple陈墨">by thetemple.陈墨</h6>
+
+            ]]>
+        </content>
+    </entry>
 </feed>

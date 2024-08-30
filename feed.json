@@ -1,13 +1,28 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "陈墨的小窝",
+    "title": "陈墨的小窝--陈墨科技",
     "description": "",
     "home_page_url": "https://chenmokeji.github.io",
     "feed_url": "https://chenmokeji.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://chenmokeji.github.io/media/website/GRUIBX5agAARGgR.jfif",
     "author": {
         "name": "thetemple.陈墨"
     },
     "items": [
+        {
+            "id": "https://chenmokeji.github.io/huan-ying-lai-dao-wo-de-xiao-wo.html",
+            "url": "https://chenmokeji.github.io/huan-ying-lai-dao-wo-de-xiao-wo.html",
+            "title": "欢迎来到我的小窝",
+            "summary": "这是我的小窝 by thetemple.陈墨",
+            "content_html": "<h1 id=\"这是我的小窝\">这是我的小窝</h1>\n<h6 id=\"by-thetemple陈墨\">by thetemple.陈墨</h6>\n",
+            "author": {
+                "name": "thetemple.陈墨"
+            },
+            "tags": [
+            ],
+            "date_published": "1970-01-01T00:00:00+08:00",
+            "date_modified": "2024-08-29T17:52:19+08:00"
+        }
     ]
 }
