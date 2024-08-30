@@ -1,1 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
 
+<h1>beat</h1>
+
+<iframe src="https://mini1.cn" width="1000" height="600" frameborder="0">
+  <p>抱歉，您的浏览器不支持iframe元素</p>
+</iframe>
+
+</body>
+</html>
